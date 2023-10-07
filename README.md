@@ -11,5 +11,7 @@
 • Natural language processing (automated few-shot learning) for scientific data extraction</h3>
 
 <h3 align="left">Useful links:</h3>
+
 Google scholar: <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en">Google scholar</a>
+
 Email: <a href = "mailto: eltonpan@mit.edu">eltonpan@mit.edu</a>
