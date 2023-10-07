@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋 I'm Elton Pan, a PhD student at MIT working on ML for materials</h1>
+<h3 align="left">Hi 👋 I'm Elton Pan, a PhD student at MIT working on ML for materials</h3>
 
-<h2 align="left">Current/past projects</h2>
+<h3 align="left">Current/past projects</h3>
 
 • Generative models (conditional denoising diffusion models, VAEs) for materials synthesis planning using molecular and crystalline materials datasets (in progress)
   
