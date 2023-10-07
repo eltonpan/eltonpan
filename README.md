@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elton Pan, a PhD student at MIT working on ML for materials</h1>
-## Current projects ## 
+## Current projects
 
 • Generative models (conditional denoising diffusion models, VAEs) for materials synthesis planning using molecular and crystalline materials datasets 
   
