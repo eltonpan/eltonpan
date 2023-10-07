@@ -8,7 +8,7 @@
 
 • Materials representation learning (transformers) for inorganic materials property/synthesis prediction (in progress)
   
-• Natural language processing (automated few-shot learning) for scientific data extraction
+• Natural language processing (automated few-shot learning) for scientific data extraction (in progress)
 
 • Constrained RL (automated few-shot learning) for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Paper</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>)
 
