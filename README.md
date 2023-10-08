@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋 I'm Elton Pan, a PhD student at MIT working on ML for materials</h3>
+<h3 align="left">Hi 👋 I'm Elton Pan, a PhD student at MIT working on ML for materials science and chemistry</h3>
 
 <h3 align="left">Current/past projects</h3>
 
