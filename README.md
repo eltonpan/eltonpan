@@ -17,3 +17,5 @@
 Google scholar: <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en">Google scholar</a>
 
 Email: <a href = "mailto: eltonpan@mit.edu">eltonpan@mit.edu</a>
+
+Linkedin: <a href="https://www.linkedin.com/in/eltonpan1/">Linkedin</a>
