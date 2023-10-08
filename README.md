@@ -2,13 +2,13 @@
 
 <h3 align="left">Current/past projects</h3>
 
-• Generative models (conditional denoising diffusion models, VAEs) for materials synthesis planning using molecular and crystalline materials datasets (in progress)
+• Generative models (conditional denoising diffusion models, VAEs) for materials synthesis planning using molecular and crystalline materials datasets (Nanoporous materials: *Work in progress* ; Inorganic materials: <a href="[https://arxiv.org/abs/2210.11931](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010)">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
   
 • Reinforcement learning (deep Q-learning, policy gradient) for inverse inorganic materials design (<a href="https://arxiv.org/abs/2210.11931">Paper</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
 
-• Materials representation learning (transformers) for inorganic materials property/synthesis prediction (in progress)
+• Materials representation learning (transformers) for inorganic materials property/synthesis prediction (*Work in progress*)
   
-• Natural language processing (automated few-shot learning) for scientific data extraction (in progress)
+• Natural language processing (automated few-shot learning) for scientific data extraction (*Work in progress*)
 
 • Constrained RL (automated few-shot learning) for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Paper</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>)
 
