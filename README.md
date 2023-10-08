@@ -4,11 +4,11 @@
 
 • **Generative models** (conditional denoising diffusion models, VAEs) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials: *Work in progress* ; Inorganic materials: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
-<img src="figures/inorganic_syn_modeling.jpeg" width="500"/>
+<img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
   
 • **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">Paper</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
 
-<img src="figures/rl_materials_generation.png" width="500"/>
+<img src="figures/rl_materials_generation.png" width="400"/>
 
 • **Materials representation learning** (transformers) for inorganic materials property/synthesis prediction (*Work in progress*)
   
@@ -16,7 +16,7 @@
 
 • **Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Paper</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>)
 
-<img src="figures/rl_process_optimization.png" width="500"/>
+<img src="figures/rl_process_optimization.png" width="400"/>
 
 <h3 align="left">Useful links:</h3>
 
