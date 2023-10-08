@@ -4,7 +4,7 @@
 
 • **Generative models** (conditional denoising diffusion models, VAEs) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials: *Work in progress* ; Inorganic materials: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
-<img src="inorganic_syn_modeling.jpeg" alt="drawing" width="200"/>
+<img src="figures/inorganic_syn_modeling.jpeg" alt="drawing" width="200"/>
 <!-- ![](figures/inorganic_syn_modeling.jpeg) -->
   
 • **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">Paper</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
