@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋 I'm Elton Pan, a PhD student at MIT working on ML for materials science and chemistry</h3>
 
-<h3 align="left">Current/past projects</h3>
+<h3 align="left">Ongoing/completed projects</h3>
 
 • **Generative models** (conditional denoising diffusion models, VAEs) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials synthesis dataset: *Work in progress*; Nanoporous materials synthesis planning: *Work in progress*; Inorganic materials synthesis planning: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
