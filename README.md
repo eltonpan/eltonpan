@@ -10,8 +10,9 @@
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
-• **Materials representation learning** (transformers) for inorganic materials property/synthesis prediction (*Work in progress*)
-<img src="figures/mtencoder.png" width="400"/> (<a href="https://openreview.net/forum?id=wug7i3O7y1">Paper</a> | Code)
+• **Materials representation learning** (transformers) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">Paper</a> | Code)
+
+<img src="figures/mtencoder.png" width="600"/> 
   
 • **Natural language processing** (automated few-shot learning) for scientific data extraction (*Work in progress*)
 
