@@ -10,7 +10,7 @@
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
-• **Materials representation learning** (transformers) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">Paper</a> | Code)
+• **Materials representation learning** (mutli-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">Paper</a> | Code)
 
 <img src="figures/mtencoder.png" width="800"/> 
   
