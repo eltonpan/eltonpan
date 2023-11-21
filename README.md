@@ -14,7 +14,8 @@
 
 <img src="figures/mtencoder.png" width="800"/> 
   
-**Interpretable ML** for materials synthesis (*Submitted*)
+• **Interpretable ML** for materials synthesis (*Submitted*)
+
 <img src="figures/interpretability.png" width="500"/>
 
 • **Natural language processing** (automated few-shot learning) for scientific data extraction (*Work in progress*)
