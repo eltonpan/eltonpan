@@ -2,10 +2,9 @@
 
 <h3 align="left">Ongoing/completed projects</h3>
 
-• **Generative models** (conditional denoising diffusion models, VAEs) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Interpretable ML for nanoporous materials synthesis: *Submitted*; Nanoporous materials synthesis planning: *Work in progress*; Inorganic materials synthesis planning: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
+• **Generative models** (conditional denoising diffusion models, VAEs) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials synthesis planning: *Work in progress*; Inorganic materials synthesis planning: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
-<img src="figures/interpretability.png" width="400"/>
   
 • **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">Paper</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
 
@@ -15,6 +14,9 @@
 
 <img src="figures/mtencoder.png" width="800"/> 
   
+**Interpretable ML** for materials synthesis (*Submitted*)
+<img src="figures/interpretability.png" width="500"/>
+
 • **Natural language processing** (automated few-shot learning) for scientific data extraction (*Work in progress*)
 
 • **Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Paper</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>)
