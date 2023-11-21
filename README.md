@@ -19,7 +19,7 @@
 
 • **Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Paper</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>)
 
-<img src="figures/rl_process_optimization.png" width="400"/>
+<img src="figures/rl_process_optimization.png" width="600"/>
 
 <h3 align="left">Useful links:</h3>
 
