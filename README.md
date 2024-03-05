@@ -14,7 +14,7 @@
 
 <img src="figures/mtencoder.png" width="800"/> 
   
-• **Interpretability** (Aggregated SHAP) for materials synthesis (*Submitted*)
+• **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (*Submitted*)
 
 <img src="figures/interpretability.png" width="500"/>
 
