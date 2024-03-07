@@ -14,7 +14,7 @@
 
 <img src="figures/mtencoder.png" width="800"/> 
   
-• **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (*Submitted*)
+• **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">Paper</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>)
 
 <img src="figures/interpretability.png" width="500"/>
 
