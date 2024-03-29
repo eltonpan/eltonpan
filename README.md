@@ -24,7 +24,7 @@
 
 <img src="figures/rl_process_optimization.png" width="600"/>
 
-• **Bayesian optimization** for chemistry/materials (<a href="https://github.com/eltonpan/bayes-warmup>Code for AC BO Hackathon</a>)
+• **Bayesian optimization** for chemistry/materials (<a href="https://github.com/eltonpan/bayes-warmup">Code for AC BO Hackathon</a>)
 
 <img src="figures/bo_trajectory.gif" width="400"/>
 
