@@ -2,17 +2,14 @@
 
 <h3 align="left">Ongoing/completed projects</h3>
 
-• **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials synthesis planning: *Work in progress*; Inorganic materials synthesis planning: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
+• **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS AI for Materials (Oral Spotlight) paper, 2024</a> | Code in progress)
 
 <p float="left">
   <img src="figures/denoising_diffusion.png" width="500"/>
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-<!-- <img src="figures/denoising_diffusion.png" width="400"/>
-
-<img src="figures/denoising_diffusion.gif" width="400"/> -->
-
+• Inorganic materials synthesis planning: (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials paper, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
   
