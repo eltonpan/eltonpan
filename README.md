@@ -4,9 +4,14 @@
 
 • **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (Nanoporous materials synthesis planning: *Work in progress*; Inorganic materials synthesis planning: <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Paper</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
-<img src="figures/denoising_diffusion.png" width="400"/>
+<p float="left">
+  <img src="figures/denoising_diffusion.png" width="400"/>
+  <img src="figures/denoising_diffusion.gif" width="150"/>
+</p>
 
-<img src="figures/denoising_diffusion.gif" width="400"/>
+<!-- <img src="figures/denoising_diffusion.png" width="400"/>
+
+<img src="figures/denoising_diffusion.gif" width="400"/> -->
 
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
