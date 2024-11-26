@@ -17,7 +17,11 @@
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
-• **Materials representation learning** (mutli-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
+• **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
+
+<img src="figures/rng.png" width="400"/>
+
+• **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
 
 <img src="figures/mtencoder.png" width="800"/> 
   
