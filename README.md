@@ -13,7 +13,7 @@
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
   
-• **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
+• **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials paper, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
