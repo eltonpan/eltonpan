@@ -9,7 +9,11 @@
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-• Inorganic materials synthesis planning: (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials paper, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
+• **Precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
+
+<img src="figures/retro-rank-in.png" width="800"/> 
+
+• **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials paper, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
   
@@ -21,9 +25,6 @@
 
 <img src="figures/rgn.png" width="300"/>
 
-• **Precursor recommendation** for inorganic materials synthesis planning (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
-
-<img src="figures/retro_rank_in.png" width="800"/> 
 
 • **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
 
