@@ -23,7 +23,7 @@
 
 • **Precursor recommendation** for inorganic materials synthesis planning (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
 
-<img src="figures/retro_rank_in.pdf" width="800"/> 
+<img src="figures/retro_rank_in.png" width="800"/> 
 
 • **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
 
