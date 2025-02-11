@@ -16,23 +16,23 @@
 3) **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials paper, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
+
+4) **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ACS Central Science paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>)
+
+<img src="figures/interpretability.png" width="500"/>
   
-4) **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials paper, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
+5) **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials paper, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>)
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
-5) **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials paper, 2024</a> | Code in progress)
+6) **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials paper, 2024</a> | Code in progress)
 
 <img src="figures/rgn.png" width="300"/>
 
 
-6) **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
+7) **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress)
 
 <img src="figures/mtencoder.png" width="800"/> 
-  
-7) **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ACS Central Science paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>)
-
-<img src="figures/interpretability.png" width="500"/>
 
 8) **Natural language processing** (automated few-shot learning) for scientific data extraction (*Work in progress*)
 
