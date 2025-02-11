@@ -11,7 +11,7 @@
 
 • **Precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
 
-<img src="figures/retro-rank-in.png" width="800"/> 
+<img src="figures/retro-rank-in.png" width="500"/> 
 
 • **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials paper, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>)
 
