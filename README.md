@@ -2,7 +2,7 @@
 
 <h3 align="left">Ongoing/completed projects</h3>
 
-1) **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS AI for Materials (Oral Spotlight) paper, 2024</a> | Code in progress)
+1) **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS AI for Materials (Oral Spotlight) paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)
 
 <p float="left">
   <img src="figures/denoising_diffusion.png" width="500"/>
