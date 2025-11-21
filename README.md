@@ -11,11 +11,11 @@
 
 2) **LLMs for materials synthesis planning** for inorganic materials (<a href="https://www.arxiv.org/abs/2506.12557">ACS Applied Materials & Interfaces paper </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>)
 
-<img src="llm_syn.png" width="500"/> 
+<img src="figures/llm_syn.png" width="500"/> 
 
 3) **LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science paper </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>)
 
-<img src="llm_al.png" width="500"/> 
+<img src="figures/llm_al.png" width="500"/> 
 
 3) **Transformer-based ranker for synthesis precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
 
