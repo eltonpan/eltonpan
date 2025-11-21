@@ -2,14 +2,22 @@
 
 <h3 align="left">Ongoing/completed projects</h3>
 
-1) **Generative models** (guided diffusion models) for **materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS AI for Materials (Oral Spotlight) paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)
+1) **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science paper (accepted, under proof)</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)
 
 <p float="left">
   <img src="figures/denoising_diffusion.png" width="500"/>
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-2) **Precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
+2) **LLMs for materials synthesis planning** for inorganic materials (<a href="https://www.arxiv.org/abs/2506.12557">ACS Applied Materials & Interfaces paper </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>)
+
+<img src="llm_syn.png" width="500"/> 
+
+3) **LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science paper </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>)
+
+<img src="llm_al.png" width="500"/> 
+
+3) **Transformer-based ranker for synthesis precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress)
 
 <img src="figures/retro-rank-in.png" width="500"/> 
 
