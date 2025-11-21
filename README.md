@@ -6,7 +6,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:eltonpan@mit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/eltonpan1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h3 align="left">Ongoing/completed projects</h3>
+<h3 align="left">Projects</h3>
 
 
 1) ***[Featured on MIT News]*** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science (accepted, under proof), 2025</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
