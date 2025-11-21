@@ -2,7 +2,9 @@
 
 My research interests are **ML for materials science and chemistry**, particularly **materials synthesis** and **generative models**. Beyond applying ML to science, I had the privilege of working as an **AI Researcher** at **Meta** and **Google Research** on **diffusion models and transformers**. I was also incredibly lucky to receive the MIT Presidential Fellowship, and for my research to be featured on **MIT News**.
 
+<p align="center">
 <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:eltonpan@mit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/eltonpan1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 <h3 align="left">Ongoing/completed projects</h3>
 
