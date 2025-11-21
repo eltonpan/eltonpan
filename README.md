@@ -9,18 +9,18 @@ My research interests are **ML for materials science and chemistry**, particular
 <h3 align="left">Ongoing/completed projects</h3>
 
 
-1) ***[Featured on MIT News]*** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science (accepted, under proof)</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
+1) ***[Featured on MIT News]*** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science (accepted, under proof), 2025</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <p float="left">
   <img src="figures/denoising_diffusion.png" width="500"/>
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-2) **LLMs for materials synthesis planning** for inorganic materials (<a href="https://www.arxiv.org/abs/2506.12557">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
+2) **LLMs for materials synthesis planning** for inorganic materials (<a href="https://www.arxiv.org/abs/2506.12557">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials, 2025 </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
 
 <img src="figures/llm_syn.png" width="300"/> 
 
-3) **LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>) Mattias Akke, Soojung Yang, Jurgis Ruza, Jinyeop Song, **Elton Pan**, Rafael Gomez-Bombarelli
+3) **LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science, 2025 </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>) Mattias Akke, Soojung Yang, Jurgis Ruza, Jinyeop Song, **Elton Pan**, Rafael Gomez-Bombarelli
 
 <img src="figures/llm_al.png" width="500"/> 
 
