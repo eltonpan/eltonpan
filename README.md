@@ -3,6 +3,7 @@
 <h3 align="left">Ongoing/completed projects</h3>
 
 1) **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science paper (accepted, under proof)</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials paper, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)
+
 **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <p float="left">
