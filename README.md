@@ -29,7 +29,7 @@
 
 <img src="figures/interpretability.png" width="500"/>
   
-7) **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials paper, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>) **Elton Pan**<sup>*</sup>, Christopher Karpovich<sup>*</sup>, Elsa Olivetti
+7) **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials paper, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials paper, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>) **Elton Pan**<sup>\*</sup>, Christopher Karpovich<sup>\*</sup>, Elsa Olivetti
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
@@ -38,7 +38,7 @@
 <img src="figures/rgn.png" width="300"/>
 
 
-9) **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress) Thorben Prein<sup>*</sup>, **Elton Pan**<sup>*</sup>, Tom Doerr, Elsa Olivetti, Jennifer Rupp
+9) **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials paper, 2023</a> | Code in progress) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Tom Doerr, Elsa Olivetti, Jennifer Rupp
 
 <img src="figures/mtencoder.png" width="800"/> 
 
