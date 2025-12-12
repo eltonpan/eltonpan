@@ -8,10 +8,11 @@ My research interests are **ML for materials science and chemistry**, particular
 
 <h3 align="left">Work Experience</h3>
 
-<table>
-<tr>
-<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
-<td>
+<table style="border: none; border-collapse: collapse;">
+<tbody style="border: none;">
+<tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
+<td style="border: none;">
 <b>Massachusetts Institute of Technology</b><br>
 <i>PhD Researcher</i> | Cambridge, MA<br>
 <i>Sep 2021 – Present</i>
@@ -25,9 +26,9 @@ My research interests are **ML for materials science and chemistry**, particular
 </td>
 </tr>
 
-<tr>
-<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="60" alt="Meta"></td>
-<td>
+<tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="60" alt="Meta"></td>
+<td style="border: none;">
 <b>Meta</b><br>
 <i>AI Research Scientist Intern</i> | Sunnyvale, CA<br>
 <i>June 2025 – Aug 2025</i>
@@ -38,9 +39,9 @@ My research interests are **ML for materials science and chemistry**, particular
 </td>
 </tr>
 
-<tr>
-<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
-<td>
+<tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
+<td style="border: none;">
 <b>Google Research</b><br>
 <i>Research Scientist Intern</i> | Mountain View, CA<br>
 <i>June 2024 – Jan 2025</i>
@@ -52,9 +53,9 @@ My research interests are **ML for materials science and chemistry**, particular
 </td>
 </tr>
 
-<tr>
-<td width="100" align="center"><img src="https://img.shields.io/badge/Ro5-FF6B6B?style=flat&logoColor=white" width="60" alt="Ro5"></td>
-<td>
+<tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://img.shields.io/badge/Ro5-FF6B6B?style=flat&logoColor=white" width="60" alt="Ro5"></td>
+<td style="border: none;">
 <b>Ro5</b><br>
 <i>ML Engineer</i> | London, UK<br>
 <i>Apr 2021 – Jul 2021</i>
@@ -65,9 +66,9 @@ My research interests are **ML for materials science and chemistry**, particular
 </td>
 </tr>
 
-<tr>
-<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/en/8/89/A-Star_Logo.svg" width="60" alt="A*STAR"></td>
-<td>
+<tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/en/8/89/A-Star_Logo.svg" width="60" alt="A*STAR"></td>
+<td style="border: none;">
 <b>Institute of High Performance Computing</b><br>
 <i>Research Engineer</i> | Singapore<br>
 <i>Jul 2020 – Jul 2021</i>
@@ -76,6 +77,7 @@ My research interests are **ML for materials science and chemistry**, particular
 </ul>
 </td>
 </tr>
+</tbody>
 </table>
 
 <h3 align="left">Projects</h3>
