@@ -54,7 +54,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>ML Engineer</i> | London, UK<br>
 <i>Apr 2021 – Jul 2021</i>
 <ul>
-<li>GNNs + RL for molecular generation<</li>
+<li>GNNs + RL for molecular generation</li>
 </ul>
 </td>
 </tr>
