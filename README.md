@@ -23,7 +23,7 @@ My research interests are **ML for materials science and chemistry**, particular
 </tr>
 
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="60" alt="Meta"></td>
+<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-symbol.svg" width="60" alt="Meta"></td>
 <td style="border: none;">
 <b>Meta</b><br>
 <i>AI Research Scientist</i> | Sunnyvale, CA<br>
