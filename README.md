@@ -53,8 +53,8 @@ My research interests are **ML for materials science and chemistry**, particular
 <b>Ro5</b><br>
 <i>ML Engineer</i> | London, UK<br>
 <i>Apr 2021 – Jul 2021</i>
-<li>GNNs + RL for molecular generation<</li>
 <ul>
+<li>GNNs + RL for molecular generation<</li>
 </ul>
 </td>
 </tr>
@@ -65,8 +65,8 @@ My research interests are **ML for materials science and chemistry**, particular
 <b>Institute of High Performance Computing</b><br>
 <i>Research Engineer</i> | Singapore<br>
 <i>Jul 2020 – Jul 2021</i>
-<li>Old-school ML + catalysis informatics</li>
 <ul>
+<li>Old-school ML + catalysis informatics</li>
 </ul>
 </td>
 </tr>
