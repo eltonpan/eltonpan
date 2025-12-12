@@ -58,7 +58,7 @@ My research interests are **ML for materials science and chemistry**, particular
 </tr>
 
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/en/8/89/A-Star_Logo.svg" width="60" alt="A*STAR"></td>
+<td width="100" align="center" style="border: none;"><img src="https://www.maritimeinstitute.sg/wp-content/uploads/2023/05/ASTAR-IHPC-Logo.png" width="60" alt="A*STAR"></td>
 <td style="border: none;">
 <b>Institute of High Performance Computing</b><br>
 <i>Research Engineer</i> | Singapore<br>
