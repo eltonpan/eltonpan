@@ -39,7 +39,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
 <td style="border: none;">
 <b>Google Research</b><br>
-<i>Research Scientist</i> | Mountain View, CA<br>
+<i>Research Scientist</i> | Mountain View, CA + Cambridge, MA<br>
 <i>June 2024 – Jan 2025</i>
 <ul>
 <li>SciML team (internship): Hierarchical controllable diffusion models</li>
