@@ -42,7 +42,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Research Scientist</i> | Mountain View, CA<br>
 <i>June 2024 – Jan 2025</i>
 <ul>
-<li>SciML team (internship): Hierarchical controllable generation with diffusion models<</li>
+<li>SciML team (internship): Hierarchical controllable generation with diffusion models</li>
 </ul>
 </td>
 </tr>
