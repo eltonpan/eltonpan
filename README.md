@@ -20,6 +20,7 @@ Sep 2021 – Present
 <li>Advisor: Elsa A. Olivetti</li>
 <li>Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
 <li>MIT Presidential Fellowship</li>
+<li>Young NUS Fellow</li>
 </ul>
 </td>
 </tr>
