@@ -29,7 +29,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>AI Research Scientist</i> | Sunnyvale, CA<br>
 <i>June 2025 – Aug 2025</i>
 <ul>
-<li>Foundational AI and Codesign team</li>
+<li>Foundational AI and Codesign team (internship)</li>
 </ul>
 </td>
 </tr>
@@ -41,7 +41,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Research Scientist</i> | Mountain View, CA<br>
 <i>June 2024 – Jan 2025</i>
 <ul>
-<li>SciML team</li>
+<li>SciML team (internship)</li>
 </ul>
 </td>
 </tr>
