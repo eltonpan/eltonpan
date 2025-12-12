@@ -47,7 +47,7 @@ My research interests are **ML for materials science and chemistry**, particular
 </tr>
 
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_3/lmt9aikiry0hyig14nqw?ik-sanitizeSvg=true" width="60" alt="Ro5"></td>
+<td width="100" align="center" style="border: none;"><img src="https://juvlabs.com/wp-content/uploads/2025/06/ro5.png" width="60" alt="Ro5"></td>
 <td style="border: none;">
 <b>Ro5</b><br>
 <i>ML Engineer</i> | London, UK<br>
