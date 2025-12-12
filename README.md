@@ -66,7 +66,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Research Engineer</i> | Singapore<br>
 <i>Jul 2020 – Jul 2021</i>
 <ul>
-<li>Classical ML + catalysis informatics</li>
+<li>Classical ML for catalysis</li>
 </ul>
 </td>
 </tr>
