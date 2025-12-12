@@ -13,7 +13,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
 <td style="border: none;">
-<b>MIT</b><br>
+<b>Massachusetts Institute of Technology</b><br>
 PhD Researcher | Cambridge, MA<br>
 Sep 2021 – Present
 <ul>
@@ -28,7 +28,7 @@ Sep 2021 – Present
 <tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="60" alt="Meta"></td>
 <td style="border: none;">
-<b>Meta</b><br>
+<b>Meta AI</b><br>
 AI Research Scientist | Sunnyvale, CA<br>
 June 2025 – Aug 2025
 <ul>
