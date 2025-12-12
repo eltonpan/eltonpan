@@ -8,65 +8,86 @@ My research interests are **ML for materials science and chemistry**, particular
 
 <h3 align="left">Work Experience</h3>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tbody style="border: none;">
+
+<!-- MIT -->
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
-<td style="border: none;">
-<b>MIT</b><br>
-<i>PhD Researcher</i> | Cambridge, MA<br>
-<i>Sep 2021 – Present</i>
-<ul>
-<li>Advisor: Elsa Olivetti Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
-</ul>
+<td width="80" style="border: none; position: relative; vertical-align: top; padding: 20px 0;">
+<div style="position: relative; height: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="50" alt="MIT" style="display: block; margin: 0 auto; position: relative; z-index: 2; background: white; padding: 5px;">
+<div style="position: absolute; left: 50%; top: 60px; bottom: -20px; width: 3px; background: linear-gradient(to bottom, #A31F34, #0066CC); margin-left: -1.5px; z-index: 1;"></div>
+</div>
+</td>
+<td style="border: none; padding: 20px 20px 30px 20px; vertical-align: top;">
+<h4 style="margin: 0 0 8px 0;">MIT</h4>
+<p style="margin: 4px 0; color: #666;"><i>PhD Researcher</i> | Cambridge, MA</p>
+<p style="margin: 4px 0 12px 0; color: #888; font-size: 0.9em;">Sep 2021 – Present</p>
+<p style="margin: 8px 0; color: #555; font-size: 0.95em;">Advisor: Elsa Olivetti • Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</p>
 </td>
 </tr>
 
+<!-- Meta -->
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="60" alt="Meta"></td>
-<td style="border: none;">
-<b>Meta</b><br>
-<i>AI Research Scientist</i> | Sunnyvale, CA<br>
-<i>June 2025 – Aug 2025</i>
-<ul>
-<li>Foundational AI and Codesign team (internship)</li>
-</ul>
+<td width="80" style="border: none; position: relative; vertical-align: top; padding: 20px 0;">
+<div style="position: relative; height: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="50" alt="Meta" style="display: block; margin: 0 auto; position: relative; z-index: 2; background: white; padding: 5px;">
+<div style="position: absolute; left: 50%; top: 60px; bottom: -20px; width: 3px; background: linear-gradient(to bottom, #0066CC, #4285F4); margin-left: -1.5px; z-index: 1;"></div>
+</div>
+</td>
+<td style="border: none; padding: 20px 20px 30px 20px; vertical-align: top;">
+<h4 style="margin: 0 0 8px 0;">Meta</h4>
+<p style="margin: 4px 0; color: #666;"><i>AI Research Scientist</i> | Sunnyvale, CA</p>
+<p style="margin: 4px 0 12px 0; color: #888; font-size: 0.9em;">June 2025 – Aug 2025</p>
+<p style="margin: 8px 0; color: #555; font-size: 0.95em;">Foundational AI and Codesign team (internship)</p>
 </td>
 </tr>
 
+<!-- Google -->
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
-<td style="border: none;">
-<b>Google Research</b><br>
-<i>Research Scientist</i> | Mountain View, CA<br>
-<i>June 2024 – Jan 2025</i>
-<ul>
-<li>SciML team (internship)</li>
-</ul>
+<td width="80" style="border: none; position: relative; vertical-align: top; padding: 20px 0;">
+<div style="position: relative; height: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="50" alt="Google" style="display: block; margin: 0 auto; position: relative; z-index: 2; background: white; padding: 5px;">
+<div style="position: absolute; left: 50%; top: 60px; bottom: -20px; width: 3px; background: linear-gradient(to bottom, #4285F4, #34A853); margin-left: -1.5px; z-index: 1;"></div>
+</div>
+</td>
+<td style="border: none; padding: 20px 20px 30px 20px; vertical-align: top;">
+<h4 style="margin: 0 0 8px 0;">Google Research</h4>
+<p style="margin: 4px 0; color: #666;"><i>Research Scientist</i> | Mountain View, CA</p>
+<p style="margin: 4px 0 12px 0; color: #888; font-size: 0.9em;">June 2024 – Jan 2025</p>
+<p style="margin: 8px 0; color: #555; font-size: 0.95em;">SciML team (internship)</p>
 </td>
 </tr>
 
+<!-- Ro5 -->
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://juvlabs.com/wp-content/uploads/2025/06/ro5.png" width="60" alt="Ro5"></td>
-<td style="border: none;">
-<b>Ro5</b><br>
-<i>ML Engineer</i> | London, UK<br>
-<i>Apr 2021 – Jul 2021</i>
-<ul>
-</ul>
+<td width="80" style="border: none; position: relative; vertical-align: top; padding: 20px 0;">
+<div style="position: relative; height: 100%;">
+<img src="https://juvlabs.com/wp-content/uploads/2025/06/ro5.png" width="50" alt="Ro5" style="display: block; margin: 0 auto; position: relative; z-index: 2; background: white; padding: 5px;">
+<div style="position: absolute; left: 50%; top: 60px; bottom: -20px; width: 3px; background: linear-gradient(to bottom, #34A853, #FBBC05); margin-left: -1.5px; z-index: 1;"></div>
+</div>
+</td>
+<td style="border: none; padding: 20px 20px 30px 20px; vertical-align: top;">
+<h4 style="margin: 0 0 8px 0;">Ro5</h4>
+<p style="margin: 4px 0; color: #666;"><i>ML Engineer</i> | London, UK</p>
+<p style="margin: 4px 0 12px 0; color: #888; font-size: 0.9em;">Apr 2021 – Jul 2021</p>
 </td>
 </tr>
 
+<!-- IHPC -->
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://www.maritimeinstitute.sg/wp-content/uploads/2023/05/ASTAR-IHPC-Logo.png" width="60" alt="A*STAR"></td>
-<td style="border: none;">
-<b>Institute of High Performance Computing</b><br>
-<i>Research Engineer</i> | Singapore<br>
-<i>Jul 2020 – Jul 2021</i>
-<ul>
-</ul>
+<td width="80" style="border: none; position: relative; vertical-align: top; padding: 20px 0;">
+<div style="position: relative; height: 100%;">
+<img src="https://www.maritimeinstitute.sg/wp-content/uploads/2023/05/ASTAR-IHPC-Logo.png" width="50" alt="A*STAR" style="display: block; margin: 0 auto; position: relative; z-index: 2; background: white; padding: 5px;">
+</div>
+</td>
+<td style="border: none; padding: 20px 20px 30px 20px; vertical-align: top;">
+<h4 style="margin: 0 0 8px 0;">Institute of High Performance Computing</h4>
+<p style="margin: 4px 0; color: #666;"><i>Research Engineer</i> | Singapore</p>
+<p style="margin: 4px 0 12px 0; color: #888; font-size: 0.9em;">Jul 2020 – Jul 2021</p>
 </td>
 </tr>
+
 </tbody>
 </table>
 
