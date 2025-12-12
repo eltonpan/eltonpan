@@ -6,6 +6,78 @@ My research interests are **ML for materials science and chemistry**, particular
 <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:eltonpan@mit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/eltonpan1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<h3 align="left">Work Experience</h3>
+
+<table>
+<tr>
+<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
+<td>
+<b>Massachusetts Institute of Technology</b><br>
+<i>PhD Researcher</i> | Cambridge, MA<br>
+<i>Sep 2021 – Present</i>
+<ul>
+<li>Led project on developing deep learning architectures for materials synthesis planning using diffusion generative models and atomistic simulations, achieving state-of-the-art performance (outperforming next best by 20%)</li>
+<li>Spearheaded research on SFT and RL fine-tuning of LLMs, agentic workflows for materials applications</li>
+<li>Co-led project team that developed reinforcement learning (DQN) algorithms that outperformed baselines in multi-objective optimization of material properties and chemical validity (improved from 60 to 92%)</li>
+<li>Supervised 2 graduate (Masters/PhD) students on deep learning and materials informatics projects</li>
+<li>Collaborated with industry research teams (IBM, Evonik, Exxon) in data science projects</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="60" alt="Meta"></td>
+<td>
+<b>Meta</b><br>
+<i>AI Research Scientist Intern</i> | Sunnyvale, CA<br>
+<i>June 2025 – Aug 2025</i>
+<ul>
+<li>Foundational AI and Codesign team – Led project involving large-scale distributed training (100s of GPUs, TB-scale data) of transformer-based models for recommender systems</li>
+<li>Developed and implemented Ouroboros, a self-feedback loop training framework for recommender systems, resulting in $8M increase in yearly revenue</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
+<td>
+<b>Google Research</b><br>
+<i>Research Scientist Intern</i> | Mountain View, CA<br>
+<i>June 2024 – Jan 2025</i>
+<ul>
+<li>SciML team – Led project on multi-scale representation learning of vision and spatiotemporal climate data for controllable generation using diffusion models and vision transformers (ViTs), resulting in 13% improvement in reconstruction accuracy and a well-defined scale separation</li>
+<li>Designed and implemented ML training pipelines (jax, flax) on terabyte-scale (64 TB) datasets</li>
+<li>Contributed 5000+ lines of production-level code in 20+ CLs (pull requests) to Google Research codebase</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td width="100" align="center"><img src="https://img.shields.io/badge/Ro5-FF6B6B?style=flat&logoColor=white" width="60" alt="Ro5"></td>
+<td>
+<b>Ro5</b><br>
+<i>ML Engineer</i> | London, UK<br>
+<i>Apr 2021 – Jul 2021</i>
+<ul>
+<li>Optimized run-time of in-house reinforcement learning (RL) algorithms resulting in a 400% speedup</li>
+<li>Analyzed the performance of graph-based RL algorithms for de novo drug discovery and property optimization</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td width="100" align="center"><img src="https://upload.wikimedia.org/wikipedia/en/8/89/A-Star_Logo.svg" width="60" alt="A*STAR"></td>
+<td>
+<b>Institute of High Performance Computing</b><br>
+<i>Research Engineer</i> | Singapore<br>
+<i>Jul 2020 – Jul 2021</i>
+<ul>
+<li>Implemented an inverse design model to optimize performance of an industrial catalyst</li>
+</ul>
+</td>
+</tr>
+</table>
+
 <h3 align="left">Projects</h3>
 
 
