@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋 I'm Elton Pan, a PhD candidate at MIT</h3> 
+<h3 align="left">Hi 👋 I'm Elton Pan</h3> 
 
 My research interests are **ML for materials science and chemistry**, particularly **materials synthesis**, **generative models** and **LLMs**.  Beyond ML for science, I had the privilege of working as an **AI Researcher** at **Meta** and **Google Research** on **diffusion models and transformers**. I was also incredibly lucky to receive the **MIT Presidential Fellowship** for my PhD, and for my research to be featured on **MIT News**.
 
