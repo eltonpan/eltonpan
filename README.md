@@ -18,6 +18,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Sep 2021 – Present</i>
 <ul>
 <li>Advisor: Elsa Olivetti Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
+<li>MIT Presidential Fellowship</li>
 </ul>
 </td>
 </tr>
@@ -29,7 +30,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>AI Research Scientist</i> | Sunnyvale, CA<br>
 <i>June 2025 – Aug 2025</i>
 <ul>
-<li>Foundational AI and Codesign team (internship)</li>
+<li>Foundational AI and Codesign team (internship): Self-feedback for transformers</li>
 </ul>
 </td>
 </tr>
@@ -41,7 +42,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Research Scientist</i> | Mountain View, CA<br>
 <i>June 2024 – Jan 2025</i>
 <ul>
-<li>SciML team (internship)</li>
+<li>SciML team (internship): Hierarchical controllable generation with diffusion models<</li>
 </ul>
 </td>
 </tr>
@@ -52,6 +53,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <b>Ro5</b><br>
 <i>ML Engineer</i> | London, UK<br>
 <i>Apr 2021 – Jul 2021</i>
+<li>GNNs + RL for molecular generation<</li>
 <ul>
 </ul>
 </td>
@@ -63,6 +65,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <b>Institute of High Performance Computing</b><br>
 <i>Research Engineer</i> | Singapore<br>
 <i>Jul 2020 – Jul 2021</i>
+<li>Old-school ML + catalysis informatics</li>
 <ul>
 </ul>
 </td>
