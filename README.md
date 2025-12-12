@@ -15,7 +15,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <td style="border: none;">
 <b>MIT</b><br>
 PhD Researcher | Cambridge, MA<br>
-<i>Sep 2021 – Present</i>
+Sep 2021 – Present
 <ul>
 <li>Advisor: Elsa Olivetti</li>
 <li>Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
@@ -28,8 +28,8 @@ PhD Researcher | Cambridge, MA<br>
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="60" alt="Meta"></td>
 <td style="border: none;">
 <b>Meta</b><br>
-<i>AI Research Scientist</i> | Sunnyvale, CA<br>
-<i>June 2025 – Aug 2025</i>
+AI Research Scientist | Sunnyvale, CA<br>
+June 2025 – Aug 2025
 <ul>
 <li>Foundational AI and Codesign team (internship): Self-feedback for transformers</li>
 </ul>
@@ -40,8 +40,8 @@ PhD Researcher | Cambridge, MA<br>
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
 <td style="border: none;">
 <b>Google Research</b><br>
-<i>Research Scientist</i> | Mountain View, CA + Cambridge, MA<br>
-<i>June 2024 – Jan 2025</i>
+Research Scientist | Mountain View, CA + Cambridge, MA<br>
+June 2024 – Jan 2025
 <ul>
 <li>SciML team (internship): Hierarchical controllable diffusion models</li>
 </ul>
@@ -52,8 +52,8 @@ PhD Researcher | Cambridge, MA<br>
 <td width="100" align="center" style="border: none;"><img src="https://juvlabs.com/wp-content/uploads/2025/06/ro5.png" width="60" alt="Ro5"></td>
 <td style="border: none;">
 <b>Ro5</b><br>
-<i>ML Engineer</i> | London, UK<br>
-<i>Apr 2021 – Jul 2021</i>
+ML Engineer | London, UK<br>
+Apr 2021 – Jul 2021
 <ul>
 <li>GNNs + RL for molecular generation</li>
 </ul>
@@ -64,8 +64,8 @@ PhD Researcher | Cambridge, MA<br>
 <td width="100" align="center" style="border: none;"><img src="https://www.maritimeinstitute.sg/wp-content/uploads/2023/05/ASTAR-IHPC-Logo.png" width="60" alt="A*STAR"></td>
 <td style="border: none;">
 <b>Institute of High Performance Computing</b><br>
-<i>Research Engineer</i> | Singapore<br>
-<i>Jul 2020 – Jul 2021</i>
+Research Engineer | Singapore<br>
+Jul 2020 – Jul 2021
 <ul>
 <li>Classical ML for catalysis</li>
 </ul>
