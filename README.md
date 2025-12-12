@@ -17,7 +17,7 @@ My research interests are **ML for materials science and chemistry**, particular
 PhD Researcher | Cambridge, MA<br>
 Sep 2021 – Present
 <ul>
-<li>Advisor: Elsa Olivetti</li>
+<li>Advisor: Elsa A. Olivetti</li>
 <li>Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
 <li>MIT Presidential Fellowship</li>
 </ul>
