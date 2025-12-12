@@ -76,7 +76,7 @@ Jul 2020 – Jul 2021
 <td width="100" align="center" style="border: none;"><img src="https://yt3.googleusercontent.com/_gp1LqIURbX2pdr2bs64lMjrAhAzCauxVoEe31KXx24tABu9scVZKvFLue8ZrHlHWO3PmvLa52o=s900-c-k-c0x00ffffff-no-rj" width="60" alt="Imperial"></td>
 <td style="border: none;">
 <b>Imperial College London</b><br>
-Research assistant | London, UK<br>
+Research Assistant | London, UK<br>
 Mar 2020 – Mar 2021
 <ul>
 <li>Constrained RL for process optimization</li>
