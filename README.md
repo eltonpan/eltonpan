@@ -17,11 +17,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>PhD Researcher</i> | Cambridge, MA<br>
 <i>Sep 2021 – Present</i>
 <ul>
-<li>Led project on developing deep learning architectures for materials synthesis planning using diffusion generative models and atomistic simulations, achieving state-of-the-art performance (outperforming next best by 20%)</li>
-<li>Spearheaded research on SFT and RL fine-tuning of LLMs, agentic workflows for materials applications</li>
-<li>Co-led project team that developed reinforcement learning (DQN) algorithms that outperformed baselines in multi-objective optimization of material properties and chemical validity (improved from 60 to 92%)</li>
-<li>Supervised 2 graduate (Masters/PhD) students on deep learning and materials informatics projects</li>
-<li>Collaborated with industry research teams (IBM, Evonik, Exxon) in data science projects</li>
+<li>Advisor: Elsa Olivetti. Collaborators: Rafael Gomez-Bombarelli</li>
 </ul>
 </td>
 </tr>
@@ -30,11 +26,10 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="60" alt="Meta"></td>
 <td style="border: none;">
 <b>Meta</b><br>
-<i>AI Research Scientist Intern</i> | Sunnyvale, CA<br>
+<i>AI Research Scientist</i> | Sunnyvale, CA<br>
 <i>June 2025 – Aug 2025</i>
 <ul>
-<li>Foundational AI and Codesign team – Led project involving large-scale distributed training (100s of GPUs, TB-scale data) of transformer-based models for recommender systems</li>
-<li>Developed and implemented Ouroboros, a self-feedback loop training framework for recommender systems, resulting in $8M increase in yearly revenue</li>
+<li>Foundational AI and Codesign team</li>
 </ul>
 </td>
 </tr>
@@ -43,12 +38,10 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="60" alt="Google"></td>
 <td style="border: none;">
 <b>Google Research</b><br>
-<i>Research Scientist Intern</i> | Mountain View, CA<br>
+<i>Research Scientist</i> | Mountain View, CA<br>
 <i>June 2024 – Jan 2025</i>
 <ul>
-<li>SciML team – Led project on multi-scale representation learning of vision and spatiotemporal climate data for controllable generation using diffusion models and vision transformers (ViTs), resulting in 13% improvement in reconstruction accuracy and a well-defined scale separation</li>
-<li>Designed and implemented ML training pipelines (jax, flax) on terabyte-scale (64 TB) datasets</li>
-<li>Contributed 5000+ lines of production-level code in 20+ CLs (pull requests) to Google Research codebase</li>
+<li>SciML team</li>
 </ul>
 </td>
 </tr>
@@ -60,8 +53,6 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>ML Engineer</i> | London, UK<br>
 <i>Apr 2021 – Jul 2021</i>
 <ul>
-<li>Optimized run-time of in-house reinforcement learning (RL) algorithms resulting in a 400% speedup</li>
-<li>Analyzed the performance of graph-based RL algorithms for de novo drug discovery and property optimization</li>
 </ul>
 </td>
 </tr>
@@ -73,7 +64,6 @@ My research interests are **ML for materials science and chemistry**, particular
 <i>Research Engineer</i> | Singapore<br>
 <i>Jul 2020 – Jul 2021</i>
 <ul>
-<li>Implemented an inverse design model to optimize performance of an industrial catalyst</li>
 </ul>
 </td>
 </tr>
