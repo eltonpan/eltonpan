@@ -14,7 +14,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
 <td style="border: none;">
 <b>MIT</b><br>
-<i>PhD Researcher</i> | Cambridge, MA<br>
+PhD Researcher | Cambridge, MA<br>
 <i>Sep 2021 – Present</i>
 <ul>
 <li>Advisor: Elsa Olivetti</li>
