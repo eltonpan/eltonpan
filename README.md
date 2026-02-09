@@ -91,7 +91,7 @@ Mar 2020 – Mar 2021
 <h3 align="left">Projects</h3>
 
 
-1) ***[Featured on MIT News]*** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://arxiv.org/abs/2509.17094">Nature Computational Science (accepted, under proof), 2025</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
+1) ***[Featured on <a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>]*** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://www.nature.com/articles/s43588-025-00949-9">Nature Computational Science, 2026</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <p float="left">
   <img src="figures/denoising_diffusion.png" width="500"/>
