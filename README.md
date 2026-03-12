@@ -108,7 +108,7 @@ Mar 2020 – Mar 2021
 <img src="figures/packflow.png" width="300"/> 
 
 
-**2025**
+<h3 align="left">2025</h3>
 
 
 - **LLMs for materials synthesis planning** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acsami.5c11229">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials, 2025 </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
@@ -124,7 +124,7 @@ Mar 2020 – Mar 2021
 
 <img src="figures/retro-rank-in.png" width="500"/> 
 
-**2024**
+<h3 align="left">2024</h3>
 
 - **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ACS Central Science, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>) **Elton Pan**, Soonhyoung Kwon, Zach Jensen, Mingrou Xie, Rafael Gómez-Bombarelli, Manuel Moliner, Yuriy Román-Leshkov, Elsa Olivetti
 
@@ -134,7 +134,7 @@ Mar 2020 – Mar 2021
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
-**2023**
+<h3 align="left">2023</h3>
 
 - **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>) Christopher Karpovich, **Elton Pan**, Zach Jensen, Elsa Olivetti
 
@@ -148,7 +148,7 @@ Mar 2020 – Mar 2021
 
 <img src="figures/mtencoder.png" width="800"/> 
 
-**2021**
+<h3 align="left">2021</h3>
 
 - **Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Computers & Chemical Engineering, 2021</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>) **Elton Pan**, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
 
