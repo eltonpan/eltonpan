@@ -88,7 +88,7 @@ Mar 2020 – Mar 2021
 </tbody>
 </table>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Publications</h3>
 
 **2026**
 
