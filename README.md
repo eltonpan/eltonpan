@@ -134,15 +134,15 @@ Mar 2020 – Mar 2021
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
+- **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials, 2024</a> | Code in progress) Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, **Elton Pan**, Elsa Olivetti, Jennifer LM Rupp
+
+<img src="figures/rgn.png" width="300"/>
+
 <h3 align="left">2023</h3>
 
 - **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>) Christopher Karpovich, **Elton Pan**, Zach Jensen, Elsa Olivetti
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
-
-- **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials, 2024</a> | Code in progress) Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, **Elton Pan**, Elsa Olivetti, Jennifer LM Rupp
-
-<img src="figures/rgn.png" width="300"/>
 
 - **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials, 2023</a> | Code in progress) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Tom Doerr, Elsa Olivetti, Jennifer Rupp
 
