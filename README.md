@@ -103,7 +103,7 @@ Mar 2020 – Mar 2021
 
 <img src="figures/synreason.png" width="300"/> 
 
-- **Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
+- **Generative molecular crystal structure prediction via RL alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
 
 <img src="figures/packflow.png" width="300"/> 
 
