@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋 I'm Elton Pan</h3> 
+<h2 align="left">Hi 👋 I'm Elton Pan</h2> 
 
 My research interests are **ML for materials science and chemistry**, particularly **generative models (<a href="https://www.nature.com/articles/s43588-025-00949-9">DiffSyn</a>), LLM RL post-training (<a href="https://openreview.net/forum?id=1kLMpYT9AW">SynReason</a>, <a href="https://pubs.acs.org/doi/full/10.1021/acsami.5c11229">LLMSyn</a>) and materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ZeoSyn</a>)**. I received my PhD at MIT and Bachelors at Imperial. Beyond AI for Science, I had the privilege of working as an AI Researcher at Meta and Google Research on diffusion models and transformers. I was also incredibly lucky to receive the **<a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/">MIT Presidential Fellowship</a>** for my PhD, and for my research to be featured on **<a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>**.
 
@@ -88,9 +88,9 @@ Mar 2020 – Mar 2021
 </tbody>
 </table>
 
-<h3 align="left">Publications</h3>
+<h2 align="left">Publications</h2>
 
-<h2 align="left">2026</h2>
+<h3 align="left">2026</h3>
 
 - **[Featured on <a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>]** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://www.nature.com/articles/s43588-025-00949-9">Nature Computational Science, 2026</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
 
