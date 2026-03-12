@@ -103,7 +103,7 @@ Mar 2020 – Mar 2021
 
 <img src="figures/synreason.png" width="300"/> 
 
-- **Generative molecular crystal structure prediction via RL alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
+- **RL-aligned flow matching for molecular crystal structure prediction** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
 
 <img src="figures/packflow.png" width="300"/> 
 
