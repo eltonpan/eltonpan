@@ -98,6 +98,14 @@ Mar 2020 – Mar 2021
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
+2) **LLM RL post-training for materials synthesis planning** (<a href="https://openreview.net/forum?id=1kLMpYT9AW&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FAI4Mat%2FAuthors%23your-submissions)">ICLR AI for Materials, 2026 </a> | Code under progress) **Elton Pan**, Thorben Prein, Juno Nam, Xiaochen Du, Soojung Yang, Pengfei Cai, Jennifer L.M. Rupp, Rafael Gomez-Bombarelli, Elsa Olivetti
+
+<img src="figures/synreason.png" width="300"/> 
+
+3) **Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
+
+<img src="figures/packflow.png" width="300"/> 
+
 2) **LLMs for materials synthesis planning** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acsami.5c11229">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials, 2025 </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
 
 <img src="figures/llm_syn.png" width="300"/> 
