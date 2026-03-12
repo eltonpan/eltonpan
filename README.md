@@ -99,11 +99,11 @@ Mar 2020 – Mar 2021
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-**LLM RL post-training for materials synthesis planning** (<a href="https://openreview.net/forum?id=1kLMpYT9AW">ICLR AI for Materials, 2026 </a> | Code under progress) **Elton Pan**<sup>\*</sup>, Thorben Prein<sup>\*</sup>, Juno Nam, Xiaochen Du, Soojung Yang, Pengfei Cai, Jennifer L.M. Rupp, Rafael Gomez-Bombarelli, Elsa Olivetti
+- **LLM RL post-training for materials synthesis planning** (<a href="https://openreview.net/forum?id=1kLMpYT9AW">ICLR AI for Materials, 2026 </a> | Code under progress) **Elton Pan**<sup>\*</sup>, Thorben Prein<sup>\*</sup>, Juno Nam, Xiaochen Du, Soojung Yang, Pengfei Cai, Jennifer L.M. Rupp, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <img src="figures/synreason.png" width="300"/> 
 
-**Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
+- **Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment** (<a href="https://arxiv.org/abs/2602.20140">ArXiv, 2026 </a> | Code under progress) Akshay Subramanian, **Elton Pan**, Juno Nam, Maurice Weiler, Shuhui Qu, Cheol Woo Park, Tommi S. Jaakkola, Elsa Olivetti, Rafael Gomez-Bombarelli
 
 <img src="figures/packflow.png" width="300"/> 
 
@@ -111,46 +111,46 @@ Mar 2020 – Mar 2021
 **2025**
 
 
-**LLMs for materials synthesis planning** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acsami.5c11229">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials, 2025 </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
+- **LLMs for materials synthesis planning** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acsami.5c11229">ACS Applied Materials & Interfaces </a> | <a href="https://openreview.net/forum?id=Yql4UpgXAI">NeurIPS (Oral Spotlight) AI for Materials, 2025 </a> | <a href="https://github.com/Thorben010/llm_synthesis">Code</a>) Thorben Prein, **Elton Pan**, Janik Jehkul, Steffen Weinmann, Elsa A Olivetti, Jennifer LM Rupp
 
 <img src="figures/llm_syn.png" width="300"/> 
 
-**LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science, 2025 </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>) Mattias Akke, Soojung Yang, Jurgis Ruza, Jinyeop Song, **Elton Pan**, Rafael Gomez-Bombarelli
+- **LLM-enabled Bayesian optimization** for molecular / protein optimization (<a href="https://chemrxiv.org/engage/chemrxiv/article-details/69028bd1ef936fb4a216199a">NeurIPS (Spotlight) AI for Science, 2025 </a> | <a href="https://github.com/learningmatter-mit/LLM4BO">Code</a>) Mattias Akke, Soojung Yang, Jurgis Ruza, Jinyeop Song, **Elton Pan**, Rafael Gomez-Bombarelli
 
 <img src="figures/llm_al.png" width="500"/> 
 
 
-**Transformer-based ranker for synthesis precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress) Thorben Prein, **Elton Pan**, Sami Haddouti, Marco Lorenz, Janik Jehkul, Tymoteusz Wilk, Cansu Moran, Menelaos Panagiotis Fotiadis, Artur P Toshev, Elsa Olivetti, Jennifer LM Rupp
+- **Transformer-based ranker for synthesis precursor recommendation** for inorganic materials (<a href="https://arxiv.org/abs/2502.04289">Paper</a> | Code in progress) Thorben Prein, **Elton Pan**, Sami Haddouti, Marco Lorenz, Janik Jehkul, Tymoteusz Wilk, Cansu Moran, Menelaos Panagiotis Fotiadis, Artur P Toshev, Elsa Olivetti, Jennifer LM Rupp
 
 <img src="figures/retro-rank-in.png" width="500"/> 
 
 **2024**
 
-**Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ACS Central Science, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>) **Elton Pan**, Soonhyoung Kwon, Zach Jensen, Mingrou Xie, Rafael Gómez-Bombarelli, Manuel Moliner, Yuriy Román-Leshkov, Elsa Olivetti
+- **Model explainability/interpretability** (Aggregated SHAP) for materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ACS Central Science, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_dataset">Code</a>) **Elton Pan**, Soonhyoung Kwon, Zach Jensen, Mingrou Xie, Rafael Gómez-Bombarelli, Manuel Moliner, Yuriy Román-Leshkov, Elsa Olivetti
 
 <img src="figures/interpretability.png" width="500"/>
 
-**Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>) **Elton Pan**<sup>\*</sup>, Christopher Karpovich<sup>\*</sup>, Elsa Olivetti
+- **Reinforcement learning** (deep Q-learning, policy gradient) for **inverse design of inorganic materials** (<a href="https://arxiv.org/abs/2210.11931">NeurIPS AI for Materials, 2022</a> | <a href="https://www.nature.com/articles/s41524-024-01474-5">npj Computational Materials, 2024</a> | <a href="https://github.com/eltonpan/RL_materials_generation">Code</a>) **Elton Pan**<sup>\*</sup>, Christopher Karpovich<sup>\*</sup>, Elsa Olivetti
 
 <img src="figures/rl_materials_generation.png" width="400"/>
 
 **2023**
 
-**Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>) Christopher Karpovich, **Elton Pan**, Zach Jensen, Elsa Olivetti
+- **Synthesis condition prediction** for inorganic materials (<a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c03010">Chemistry of Materials, 2023</a> | <a href="https://github.com/olivettigroup/interpretable-condition-prediction/">Code</a>) Christopher Karpovich, **Elton Pan**, Zach Jensen, Elsa Olivetti
 
 <img src="figures/inorganic_syn_modeling.jpeg" width="400"/>
 
-**Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials, 2024</a> | Code in progress) Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, **Elton Pan**, Elsa Olivetti, Jennifer LM Rupp
+- **Reaction Graph Networks** for modeling precursor-target interactions to predict materials synthesis routes (<a href="https://openreview.net/forum?id=VGsXQOTs1E">NeurIPS AI for Materials, 2024</a> | Code in progress) Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, **Elton Pan**, Elsa Olivetti, Jennifer LM Rupp
 
 <img src="figures/rgn.png" width="300"/>
 
-**Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials, 2023</a> | Code in progress) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Tom Doerr, Elsa Olivetti, Jennifer Rupp
+- **Materials representation learning** (multi-task transformer pretraining) for inorganic materials property/synthesis prediction (<a href="https://openreview.net/forum?id=wug7i3O7y1">NeurIPS AI for Materials, 2023</a> | Code in progress) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Tom Doerr, Elsa Olivetti, Jennifer Rupp
 
 <img src="figures/mtencoder.png" width="800"/> 
 
 **2021**
 
-**Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Computers & Chemical Engineering, 2021</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>) **Elton Pan**, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
+- **Constrained RL** for process optimization (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404">Computers & Chemical Engineering, 2021</a> | <a href="https://github.com/eltonpan/constrained_RL_process_optimization">Code</a>) **Elton Pan**, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
 
 <img src="figures/rl_process_optimization.png" width="600"/>
 
