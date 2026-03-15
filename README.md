@@ -99,7 +99,7 @@ Mar 2020 – Mar 2021
   <img src="figures/denoising_diffusion.gif" width="150"/>
 </p>
 
-- **LLM RL post-training for materials synthesis planning** (<a href="https://openreview.net/forum?id=1kLMpYT9AW">ICLR AI for Materials, 2026 </a> | Code under progress) **Elton Pan**<sup>\*</sup>, Thorben Prein<sup>\*</sup>, Juno Nam, Xiaochen Du, Soojung Yang, Pengfei Cai, Jennifer L.M. Rupp, Rafael Gomez-Bombarelli, Elsa Olivetti
+- **RL post-training for synthesis reasoning** (<a href="https://openreview.net/forum?id=1kLMpYT9AW">ICLR AI for Materials, 2026 </a> | Code under progress) **Elton Pan**<sup>\*</sup>, Thorben Prein<sup>\*</sup>, Juno Nam, Xiaochen Du, Soojung Yang, Pengfei Cai, Jennifer L.M. Rupp, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <img src="figures/synreason.png" width="300"/> 
 
