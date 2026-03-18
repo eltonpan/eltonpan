@@ -11,7 +11,7 @@ My research interests are **ML for materials science and chemistry**, particular
 <table style="border: none; border-collapse: collapse;">
 <tbody style="border: none;">
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="60" alt="MIT"></td>
+<td width="100" align="center" style="border: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dqsH_5UpmqoyP2kTy3CTPL8h7_OsIUrrtg&s" width="60" alt="MIT"></td>
 <td style="border: none;">
 <b>Massachusetts Institute of Technology</b><br>
 PhD Researcher | Cambridge, MA<br>
