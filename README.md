@@ -10,7 +10,7 @@ My research interests are **ML for materials science and chemistry**, particular
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
-<td width="100" align="center" style="border: none;"><img src="https://www.linkedin.com/company/lila-sciences" width="60" alt="Lila"></td>
+<td width="100" align="center" style="border: none;"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEqlTpUSd_btg/company-logo_200_200/company-logo_200_200/0/1732737531284/lila_sciences_logo?e=1776902400&v=beta&t=u2Yq8nac-WWw6AUg5Pnq_w7pNQIn1aHvweU8l6VoyQA" width="60" alt="Lila"></td>
 <td style="border: none;">
 <b>Lila Sciences</b><br>
 AI Research Scientist | Cambridge, MA<br>
