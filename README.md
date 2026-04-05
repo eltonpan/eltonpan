@@ -11,11 +11,25 @@ My research interests are **ML for materials science and chemistry**, particular
 <table style="border: none; border-collapse: collapse;">
 <tbody style="border: none;">
 <tr style="border: none;">
+<td width="100" align="center" style="border: none;"><img src="https://www.linkedin.com/company/lila-sciences" width="60" alt="Lila"></td>
+<td style="border: none;">
+<b>Lila Sciences</b><br>
+AI Research Scientist | Cambridge, MA<br>
+Mar 2026 – Present
+<ul>
+<li>PS AI team: Generative models for materials</li>
+</ul>
+</td>
+</tr>
+
+<table style="border: none; border-collapse: collapse;">
+<tbody style="border: none;">
+<tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dqsH_5UpmqoyP2kTy3CTPL8h7_OsIUrrtg&s" width="60" alt="MIT"></td>
 <td style="border: none;">
 <b>Massachusetts Institute of Technology</b><br>
 PhD Researcher | Cambridge, MA<br>
-Sep 2021 – Present
+Sep 2021 – Feb 2026
 <ul>
 <li>Advisor: Elsa A. Olivetti</li>
 <li>Collaborators: Rafael Gomez-Bombarelli, Yuriy Roman-Leshkov, Manuel Moliner, Jennifer Rupp</li>
