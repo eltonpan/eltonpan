@@ -21,7 +21,7 @@ Mar 2026 – Present
 </td>
 </tr>
 
-<table style="border: none; border-collapse: collapse;">
+<!-- <table style="border: none; border-collapse: collapse;"> -->
 <tbody style="border: none;">
 <tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dqsH_5UpmqoyP2kTy3CTPL8h7_OsIUrrtg&s" width="60" alt="MIT"></td>
