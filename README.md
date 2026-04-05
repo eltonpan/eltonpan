@@ -9,7 +9,6 @@ My research interests are **ML for materials science and chemistry**, particular
 <h3 align="left">Work experience</h3>
 
 <table style="border: none; border-collapse: collapse;">
-<tbody style="border: none;">
 <tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://www.linkedin.com/company/lila-sciences" width="60" alt="Lila"></td>
 <td style="border: none;">
