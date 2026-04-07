@@ -26,7 +26,7 @@ Mar 2026 – Present
 <tr style="border: none;">
 <td width="100" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/MIT_logo_2003-2023.svg" width="60" alt="MIT"></td>
 <td style="border: none;">
-<b>Massachusetts Institute of Technology</b><br>
+<b>MIT</b><br>
 PhD Researcher | Cambridge, MA<br>
 Sep 2021 – Feb 2026
 <ul>
