@@ -16,7 +16,7 @@ My research interests are **ML for materials science and chemistry**, particular
 AI Research Scientist | Cambridge, MA<br>
 Mar 2026 – Present
 <ul>
-<li>PS AI team: Generative models for materials</li>
+<li>PS AI team: Multimodal generative models for materials, RL post-training for agents</li>
 </ul>
 </td>
 </tr>
