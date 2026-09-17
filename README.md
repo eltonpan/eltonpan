@@ -13,10 +13,10 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://spmb.com/wp-content/uploads/2025/09/LILA-Science_Logo.jpg" width="60" alt="Lila"></td>
 <td style="border: none;">
 <b>Lila Sciences</b><br>
-AI Research Scientist | Cambridge, MA<br>
+Member of Technical Staff | Cambridge, MA<br>
 Mar 2026 – Present
 <ul>
-<li>PS AI team: Multimodal generative models for materials, RL post-training for agents</li>
+<li>Physical Sciences AI team: Multimodal generative models for materials, RL post-training for agents</li>
 </ul>
 </td>
 </tr>
