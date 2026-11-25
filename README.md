@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I'm Elton Pan</h2> 
 
-My research interests are **ML for materials science and chemistry**, particularly **generative models (<a href="https://www.nature.com/articles/s43588-025-00949-9">DiffSyn</a>), RL post-training for LLM scientific reasoning (<a href="https://openreview.net/forum?id=1kLMpYT9AW">SynReason</a>), and materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ZeoSyn</a>)**. Currently, I am an AI Research Scientist at Lila Sciences, working on generative models for materials. I received my PhD at MIT, and Bachelors at Imperial. Beyond AI for Science, I worked as an AI Researcher at Meta and Google Research on diffusion models and transformers. I am honored to receive the **<a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/">MIT Presidential Fellowship</a>** for my PhD, my research featured on **<a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>**, and my scientific commentary highlighted on **<a href="https://finance.yahoo.com/news/discovering-materials-ai-winding-road-204155400.html">Yahoo Finance</a>**.
+My research interests are **ML for materials science and chemistry**, particularly **generative models (<a href="https://www.nature.com/articles/s43588-025-00949-9">DiffSyn</a>), RL post-training for LLM scientific reasoning (<a href="https://openreview.net/forum?id=1kLMpYT9AW">SynReason</a>), and materials synthesis (<a href="https://pubs.acs.org/doi/10.1021/acscentsci.3c01615">ZeoSyn</a>)**. Currently, I am a Member of Technical Staff at Lila Sciences, working on generative models for materials. I received my PhD at MIT, and Bachelors at Imperial. Beyond AI for Science, I worked as an AI Researcher at Meta and Google Research on diffusion models and transformers. I am honored to receive the **<a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/">MIT Presidential Fellowship</a>** for my PhD, my research featured on **<a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>**, and my scientific commentary highlighted on **<a href="https://finance.yahoo.com/news/discovering-materials-ai-winding-road-204155400.html">Yahoo Finance</a>**.
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=2GTcE-0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:eltonpan@mit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/eltonpan1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,10 +13,10 @@ My research interests are **ML for materials science and chemistry**, particular
 <td width="100" align="center" style="border: none;"><img src="https://spmb.com/wp-content/uploads/2025/09/LILA-Science_Logo.jpg" width="60" alt="Lila"></td>
 <td style="border: none;">
 <b>Lila Sciences</b><br>
-AI Research Scientist | Cambridge, MA<br>
+Member of Technical Staff | Cambridge, MA<br>
 Mar 2026 – Present
 <ul>
-<li>PS AI team: Multimodal generative models for materials, RL post-training for agents</li>
+<li>Physical Sciences AI team: Multimodal generative models for materials, RL post-training for agents</li>
 </ul>
 </td>
 </tr>
