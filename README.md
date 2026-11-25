@@ -105,7 +105,7 @@ Mar 2020 – Mar 2021
 
 <h3 align="left">2026</h3>
 
-- **Multimodal any-to-any flow matching for molecules and spectra** (<a href="https://arxiv.org/pdf/2611.22098v2">NeurIPS, 2026 </a> | Featured on Lila) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Rafael Gomez-Bombarelli, Santiago Miret
+- **Multimodal any-to-any flow matching for molecules and spectra** (<a href="https://arxiv.org/pdf/2611.22098v2">NeurIPS, 2026</a> | Featured on <a href="https://www.lila.ai/news/seeing-molecules-from-any-direction">Lila Blog</a>) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Rafael Gomez-Bombarelli, Santiago Miret
 
 <img src="figures/mosaic.png" width="500"/> 
 
