@@ -105,6 +105,11 @@ Mar 2020 – Mar 2021
 
 <h3 align="left">2026</h3>
 
+- **Multimodal any-to-any flow matching for molecules and spectra** (<a href="https://arxiv.org/pdf/2611.22098v2">NeurIPS, 2026 </a> | Featured on Lila) Thorben Prein<sup>\*</sup>, **Elton Pan**<sup>\*</sup>, Rafael Gomez-Bombarelli, Santiago Miret
+
+<img src="figures/mosaic.png" width="500"/> 
+
+
 - **[Featured on <a href="https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202">MIT News</a>]** **Generative diffusion models for materials synthesis planning** using **molecular** and **crystalline materials** datasets (<a href="https://www.nature.com/articles/s43588-025-00949-9">Nature Computational Science, 2026</a> | <a href="https://openreview.net/forum?id=hy39qxU6CQ">NeurIPS (Oral Spotlight) AI for Materials, 2024</a> | <a href="https://github.com/eltonpan/zeosyn_gen">Code</a>)  **Elton Pan**, Soonhyoung Kwon, Sulin Liu, Mingrou Xie, Alexander J Hoffman, Yifei Duan, Thorben Prein, Killian Sheriff, Yuriy Roman-Leshkov, Manuel Moliner, Rafael Gomez-Bombarelli, Elsa Olivetti
 
 <p float="left">
